@@ -35,4 +35,4 @@ const IShape = [
   [width, width + 1, width + 2, width + 3],
 ];
 
-export const theTetrominoes = [LShape, ZShape, TShape, OShape, IShape];
+export const Shapes = [LShape, ZShape, TShape, OShape, IShape];
